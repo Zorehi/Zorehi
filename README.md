@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Zorehi
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning C / Javascripts / SQL / HTML / CSS / PHP
+- 🌱 I’m currently learning C / C++ / C# / JavaScripts / TypeScripts / SQL / HTML / CSS / PHP
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : jeremy.legrix@hotmail.com
 
